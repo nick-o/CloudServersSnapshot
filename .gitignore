@@ -1,0 +1,14 @@
+#Visual Studio .NET exclusions
+bin
+Cloudfiles/Icons
+*/obj
+*/Obj
+#CloudFilesUpload/TestResults
+#CloudFilesUpload/test-results
+*.csproj.user
+*.suo
+*.cache
+*~
+*.swp
+*.userprefs
+*.pidb
