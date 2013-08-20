@@ -32,4 +32,4 @@ Ouput directory is bin/Release. Usage per the below:
 
 NOTE: Region must be one of US|UK. When omitted, default region (US) will be used
 
-This will then take a snapshot of all the servers in your Rackspace Cloud Account and name them using the following pattern: <Server Name>_<current year>-<current month>-<current day>
+This will then take a snapshot of all the servers in your Rackspace Cloud Account and name them using the following pattern: \<Server Name\>_\<current year\>-\<current month\>-\<current day\>
